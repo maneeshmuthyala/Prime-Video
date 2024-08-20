@@ -1,0 +1,15 @@
+/* Write your CSS here */
+li {
+  list-style-type: none;
+}
+.video-container {
+  height: 80vh;
+  width: 140vw;
+}
+.responsive-container {
+  height: 100vh;
+  width: 70vw;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}

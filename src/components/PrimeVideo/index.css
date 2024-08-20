@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.main-cont {
+  background-color: #231f20;
+  width: 100vw;
+  height: 200vh;
+}
+.prime {
+  height: 45vh;
+  width: 100vw;
+}
+.action {
+  font-family: 'Roboto';
+  font-size: 26px;
+  color: #fff;
+}
